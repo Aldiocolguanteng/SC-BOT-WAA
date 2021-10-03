@@ -1,0 +1,13 @@
+{	
+	"prefix": "MultI", 
+	"defaultSessionName": "AkiraBotz", 
+	"zeksKey": "NinoWangy",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 30,
+	"ownerList": ["62877050482351@s.whatsapp.net", "62877050482351@s.whatsapp.net"],
+	"apiUrl": "https://wa.me/62877050482351",
+    "imgUrl": "https://i.postimg.cc/s2LfndDw/Iqbalz-APIs.jpg",
+	"pack": "AkiraBotz",
+	"author": "A k i r a B o t z"
+}
